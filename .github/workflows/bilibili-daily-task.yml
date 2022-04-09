@@ -35,4 +35,4 @@ jobs:
         sessData: ${{secrets.SESSDATA}}
         biliJct: ${{secrets.BILIJCT}}
         otherConfigs: ${{secrets.OTHERCONFIGS}}
-      run: dotnet run -p ./src/Ray.BiliBiliTool.Console -userId=${userId} -sessData=${sessData} -biliJct=${biliJct} -closeConsoleWhenEnd=1 ${otherConfigs}
+      run: dotnet run -p ./src/Ray.BiliBiliTool.Console -userId=${224345626} -sessData=${ed5be2eb%2C1664445329%2C21868%2A41} -biliJct=${bbfc05e4c93777a3e225e5d92724d191} -closeConsoleWhenEnd=1 ${otherConfigs}
